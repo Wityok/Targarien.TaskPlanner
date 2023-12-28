@@ -7,4 +7,11 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Targarien.TaskPlanner.DataAccess.Abstractions\Targarien.TaskPlanner.DataAccess.Abstractions.csproj" />
+    <ProjectReference Include="..\Targarien.TaskPlanner.DataAccess\Targarien.TaskPlanner.DataAccess.csproj" />
+    <ProjectReference Include="..\Targarien.TaskPlanner.Domain.Logic\Targarien.TaskPlanner.Domain.Logic.csproj" />
+    <ProjectReference Include="..\Targarien.TaskPlanner.Domain.Models\Targarien.TaskPlanner.Domain.Models.csproj" />
+  </ItemGroup>
+
 </Project>
