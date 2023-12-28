@@ -1,0 +1,12 @@
+C:\Unik\3 kurs\.NET\.Net\H.TaskPlanner.Domain.Models\bin\Debug\net8.0\H.TaskPlanner.Domain.Models..deps.json
+C:\Unik\3 kurs\.NET\.Net\H.TaskPlanner.Domain.Models\bin\Debug\net8.0\H.TaskPlanner.Domain.Models..dll
+C:\Unik\3 kurs\.NET\.Net\H.TaskPlanner.Domain.Models\bin\Debug\net8.0\H.TaskPlanner.Domain.Models..pdb
+C:\Unik\3 kurs\.NET\.Net\H.TaskPlanner.Domain.Models\obj\Debug\net8.0\H.TaskPlanner.Domain.Models..csproj.AssemblyReference.cache
+C:\Unik\3 kurs\.NET\.Net\H.TaskPlanner.Domain.Models\obj\Debug\net8.0\H.TaskPlanner.Domain.Models..GeneratedMSBuildEditorConfig.editorconfig
+C:\Unik\3 kurs\.NET\.Net\H.TaskPlanner.Domain.Models\obj\Debug\net8.0\H.TaskPlanner.Domain.Models..AssemblyInfoInputs.cache
+C:\Unik\3 kurs\.NET\.Net\H.TaskPlanner.Domain.Models\obj\Debug\net8.0\H.TaskPlanner.Domain.Models..AssemblyInfo.cs
+C:\Unik\3 kurs\.NET\.Net\H.TaskPlanner.Domain.Models\obj\Debug\net8.0\H.TaskPlanner.Domain.Models..csproj.CoreCompileInputs.cache
+C:\Unik\3 kurs\.NET\.Net\H.TaskPlanner.Domain.Models\obj\Debug\net8.0\H.TaskPlanner.Domain.Models..dll
+C:\Unik\3 kurs\.NET\.Net\H.TaskPlanner.Domain.Models\obj\Debug\net8.0\refint\H.TaskPlanner.Domain.Models..dll
+C:\Unik\3 kurs\.NET\.Net\H.TaskPlanner.Domain.Models\obj\Debug\net8.0\H.TaskPlanner.Domain.Models..pdb
+C:\Unik\3 kurs\.NET\.Net\H.TaskPlanner.Domain.Models\obj\Debug\net8.0\ref\H.TaskPlanner.Domain.Models..dll

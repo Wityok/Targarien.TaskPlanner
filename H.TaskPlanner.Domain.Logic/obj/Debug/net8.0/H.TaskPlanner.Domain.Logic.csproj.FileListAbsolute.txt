@@ -1,0 +1,17 @@
+C:\Unik\3 kurs\.NET\.Net\H.TaskPlanner.Domain.Logic\bin\Debug\net8.0\H.TaskPlanner.Domain.Logic.deps.json
+C:\Unik\3 kurs\.NET\.Net\H.TaskPlanner.Domain.Logic\bin\Debug\net8.0\H.TaskPlanner.Domain.Logic.dll
+C:\Unik\3 kurs\.NET\.Net\H.TaskPlanner.Domain.Logic\bin\Debug\net8.0\H.TaskPlanner.Domain.Logic.pdb
+C:\Unik\3 kurs\.NET\.Net\H.TaskPlanner.Domain.Logic\bin\Debug\net8.0\H.TaskPlanner.DataAccess.Abstractions.dll
+C:\Unik\3 kurs\.NET\.Net\H.TaskPlanner.Domain.Logic\bin\Debug\net8.0\H.TaskPlanner.Domain.Models..dll
+C:\Unik\3 kurs\.NET\.Net\H.TaskPlanner.Domain.Logic\bin\Debug\net8.0\H.TaskPlanner.DataAccess.Abstractions.pdb
+C:\Unik\3 kurs\.NET\.Net\H.TaskPlanner.Domain.Logic\bin\Debug\net8.0\H.TaskPlanner.Domain.Models..pdb
+C:\Unik\3 kurs\.NET\.Net\H.TaskPlanner.Domain.Logic\obj\Debug\net8.0\H.TaskPlanner.Domain.Logic.csproj.AssemblyReference.cache
+C:\Unik\3 kurs\.NET\.Net\H.TaskPlanner.Domain.Logic\obj\Debug\net8.0\H.TaskPlanner.Domain.Logic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Unik\3 kurs\.NET\.Net\H.TaskPlanner.Domain.Logic\obj\Debug\net8.0\H.TaskPlanner.Domain.Logic.AssemblyInfoInputs.cache
+C:\Unik\3 kurs\.NET\.Net\H.TaskPlanner.Domain.Logic\obj\Debug\net8.0\H.TaskPlanner.Domain.Logic.AssemblyInfo.cs
+C:\Unik\3 kurs\.NET\.Net\H.TaskPlanner.Domain.Logic\obj\Debug\net8.0\H.TaskPlanner.Domain.Logic.csproj.CoreCompileInputs.cache
+C:\Unik\3 kurs\.NET\.Net\H.TaskPlanner.Domain.Logic\obj\Debug\net8.0\H.TaskPlanner.Domain.Logic.csproj.CopyComplete
+C:\Unik\3 kurs\.NET\.Net\H.TaskPlanner.Domain.Logic\obj\Debug\net8.0\H.TaskPlanner.Domain.Logic.dll
+C:\Unik\3 kurs\.NET\.Net\H.TaskPlanner.Domain.Logic\obj\Debug\net8.0\refint\H.TaskPlanner.Domain.Logic.dll
+C:\Unik\3 kurs\.NET\.Net\H.TaskPlanner.Domain.Logic\obj\Debug\net8.0\H.TaskPlanner.Domain.Logic.pdb
+C:\Unik\3 kurs\.NET\.Net\H.TaskPlanner.Domain.Logic\obj\Debug\net8.0\ref\H.TaskPlanner.Domain.Logic.dll

@@ -1,0 +1,17 @@
+C:\Unik\3 kurs\.NET\.Net\H.TaskPlanner.DataAccess\bin\Debug\net8.0\H.TaskPlanner.DataAccess.deps.json
+C:\Unik\3 kurs\.NET\.Net\H.TaskPlanner.DataAccess\bin\Debug\net8.0\H.TaskPlanner.DataAccess.dll
+C:\Unik\3 kurs\.NET\.Net\H.TaskPlanner.DataAccess\bin\Debug\net8.0\H.TaskPlanner.DataAccess.pdb
+C:\Unik\3 kurs\.NET\.Net\H.TaskPlanner.DataAccess\bin\Debug\net8.0\H.TaskPlanner.DataAccess.Abstractions.dll
+C:\Unik\3 kurs\.NET\.Net\H.TaskPlanner.DataAccess\bin\Debug\net8.0\H.TaskPlanner.Domain.Models..dll
+C:\Unik\3 kurs\.NET\.Net\H.TaskPlanner.DataAccess\bin\Debug\net8.0\H.TaskPlanner.DataAccess.Abstractions.pdb
+C:\Unik\3 kurs\.NET\.Net\H.TaskPlanner.DataAccess\bin\Debug\net8.0\H.TaskPlanner.Domain.Models..pdb
+C:\Unik\3 kurs\.NET\.Net\H.TaskPlanner.DataAccess\obj\Debug\net8.0\H.TaskPlanner.DataAccess.csproj.AssemblyReference.cache
+C:\Unik\3 kurs\.NET\.Net\H.TaskPlanner.DataAccess\obj\Debug\net8.0\H.TaskPlanner.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Unik\3 kurs\.NET\.Net\H.TaskPlanner.DataAccess\obj\Debug\net8.0\H.TaskPlanner.DataAccess.AssemblyInfoInputs.cache
+C:\Unik\3 kurs\.NET\.Net\H.TaskPlanner.DataAccess\obj\Debug\net8.0\H.TaskPlanner.DataAccess.AssemblyInfo.cs
+C:\Unik\3 kurs\.NET\.Net\H.TaskPlanner.DataAccess\obj\Debug\net8.0\H.TaskPlanner.DataAccess.csproj.CoreCompileInputs.cache
+C:\Unik\3 kurs\.NET\.Net\H.TaskPlanner.DataAccess\obj\Debug\net8.0\H.TaskPlanner.DataAccess.csproj.CopyComplete
+C:\Unik\3 kurs\.NET\.Net\H.TaskPlanner.DataAccess\obj\Debug\net8.0\H.TaskPlanner.DataAccess.dll
+C:\Unik\3 kurs\.NET\.Net\H.TaskPlanner.DataAccess\obj\Debug\net8.0\refint\H.TaskPlanner.DataAccess.dll
+C:\Unik\3 kurs\.NET\.Net\H.TaskPlanner.DataAccess\obj\Debug\net8.0\H.TaskPlanner.DataAccess.pdb
+C:\Unik\3 kurs\.NET\.Net\H.TaskPlanner.DataAccess\obj\Debug\net8.0\ref\H.TaskPlanner.DataAccess.dll
