@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Targarien.TaskPlanner", "Targarien.TaskPlanner.csproj", "{DB4F6869-B441-4A44-A42B-DF4B46AF5A73}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Targarien.TaskPlanner.Domain.Models", "..\Targarien.TaskPlanner.Domain.Models\Targarien.TaskPlanner.Domain.Models.csproj", "{59B26DB6-E72D-4413-9B71-3F20BE948DF8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Targarien.TaskPlanner.Domain.Logic", "..\Targarien.TaskPlanner.Domain.Logic\Targarien.TaskPlanner.Domain.Logic.csproj", "{488A8E1B-7718-4A5D-8853-3522B354D8FD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Targarien.TaskPlanner.DataAccess", "..\Targarien.TaskPlanner.DataAccess\Targarien.TaskPlanner.DataAccess.csproj", "{B0A4671A-D273-4753-B4BD-708812953552}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Targarien.TaskPlanner.DataAccess.Abstractions", "..\Targarien.TaskPlanner.DataAccess.Abstractions\Targarien.TaskPlanner.DataAccess.Abstractions.csproj", "{1E95E6D5-3A06-458E-B823-9DEE62777C11}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Targarien.TaskPlanner.Domain.Logic.Tests", "..\Targarien.TaskPlanner.Domain.Logic.Tests\Targarien.TaskPlanner.Domain.Logic.Tests.csproj", "{9E6B192A-5969-42D3-8A29-D8EAC5871B41}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB4F6869-B441-4A44-A42B-DF4B46AF5A73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB4F6869-B441-4A44-A42B-DF4B46AF5A73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB4F6869-B441-4A44-A42B-DF4B46AF5A73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB4F6869-B441-4A44-A42B-DF4B46AF5A73}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59B26DB6-E72D-4413-9B71-3F20BE948DF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59B26DB6-E72D-4413-9B71-3F20BE948DF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59B26DB6-E72D-4413-9B71-3F20BE948DF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59B26DB6-E72D-4413-9B71-3F20BE948DF8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{488A8E1B-7718-4A5D-8853-3522B354D8FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{488A8E1B-7718-4A5D-8853-3522B354D8FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{488A8E1B-7718-4A5D-8853-3522B354D8FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{488A8E1B-7718-4A5D-8853-3522B354D8FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0A4671A-D273-4753-B4BD-708812953552}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0A4671A-D273-4753-B4BD-708812953552}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0A4671A-D273-4753-B4BD-708812953552}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0A4671A-D273-4753-B4BD-708812953552}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E95E6D5-3A06-458E-B823-9DEE62777C11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E95E6D5-3A06-458E-B823-9DEE62777C11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E95E6D5-3A06-458E-B823-9DEE62777C11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E95E6D5-3A06-458E-B823-9DEE62777C11}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E6B192A-5969-42D3-8A29-D8EAC5871B41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E6B192A-5969-42D3-8A29-D8EAC5871B41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E6B192A-5969-42D3-8A29-D8EAC5871B41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E6B192A-5969-42D3-8A29-D8EAC5871B41}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ECFFAE82-D04E-4292-B4C9-95B508A0DCB0}
+	EndGlobalSection
+EndGlobal
